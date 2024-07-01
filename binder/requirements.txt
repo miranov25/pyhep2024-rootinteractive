@@ -1,4 +1,4 @@
-rootinteractive
+git+https://github.com/miranov25/RootInteractive.git
 jupyterlab
 notebook
 bokeh==3.3.2
