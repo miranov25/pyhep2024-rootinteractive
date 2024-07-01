@@ -1,1 +1,5 @@
 git+https://github.com/miranov25/RootInteractive.git
+bokeh==3.3.2
+numpy==1.24.3
+pandas==2.0.1
+
