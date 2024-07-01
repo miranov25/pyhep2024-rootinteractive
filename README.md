@@ -1,6 +1,11 @@
-# RootInteractive presentation for PyHEP 2024
+# RootInteractive Presentation for PyHEP 2024
 
-Talk on the [RootInteractive](https://github.com/miranov25/RootInteractive) package at the [PyHEP 2024](https://indico.cern.ch/event/1384010) conference.
+This repository contains interactive Jupyter notebooks for the [RootInteractive](https://github.com/miranov25/RootInteractive) presentation at [PyHEP 2024](https://indico.cern.ch/event/1384010). You can explore the notebooks directly in your browser using Binder.
 
-Binder links to play with the notebooks in your browser:
-(to be added)
+## Binder Links
+
+Click on the following links to launch the notebooks:
+
+![ssl-hep-binder](https://binderhub.ssl-hep.org/v2/gh/miranov25/pyhep2024-rootinteractive/HEAD) Launch SSL-HEP Binder _(recommended)_
+
+![mybinder](https://mybinder.org/v2/gh/miranov25/pyhep2024-rootinteractive/HEAD) Launch mybinder
