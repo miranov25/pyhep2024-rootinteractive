@@ -6,13 +6,7 @@ This repository contains interactive Jupyter notebooks for the [RootInteractive]
 
 Click on the following links to launch the notebooks:
 
-<<<<<<< HEAD
-![ssl-hep-binder](https://binderhub.ssl-hep.org/v2/gh/miranov25/pyhep2024-rootinteractive/HEAD) Launch SSL-HEP Binder _(recommended)_
-
-![mybinder](https://mybinder.org/v2/gh/miranov25/pyhep2024-rootinteractive/HEAD) Launch mybinder
-=======
 [![ssl-hep-binder](https://mybinder.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/miranov25/pyhep2024-rootinteractive/HEAD) Launch SSL-HEP Binder __(recommended)__
 
 [![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/miranov25/pyhep2024-rootinteractive/HEAD) Launch mybinder
->>>>>>> dd47f432eb208bfb1e47ed44a1057ae50576aaef
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miranov25/pyhep2024-rootinteractive) Launch in Google Colab
